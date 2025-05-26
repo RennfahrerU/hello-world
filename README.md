@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="rainbow_hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
 <br>
@@ -24,7 +24,7 @@
 > Comment `!assign` on any `good first issue` you want to contribute to :hugs:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="rainbow_hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
 ## Contributing
@@ -33,7 +33,7 @@ If you're looking for a way to contribute, you can scan through our existing iss
 We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read our [Contributing Guide](CONTRIBUTING.md) how you can take part in improving hello-world.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="rainbow_hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
 ## Join us in discussions
@@ -41,7 +41,7 @@ We want to make contributing to this project as easy and transparent as possible
 We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions](https://github.com/orgs/codinasion/discussions).
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="rainbow_hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
 <br>
@@ -61,7 +61,7 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
 </table>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="rainbow_hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
 
 <br/>
@@ -71,5 +71,5 @@ Made with 💖 by Codinasion
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/codinasion/.github/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+  <img src="rainbow_hr.png" alt="rainbow hr" width="100%" height="70%">
 </div>
